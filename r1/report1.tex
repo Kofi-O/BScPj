@@ -1,0 +1,191 @@
+\documentclass[11pt, a4paper]{article}
+
+\usepackage{jheppub}
+\bibliographystyle{JHEP.bst}
+\allowdisplaybreaks
+
+\usepackage{hyperref}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,natbib,graphicx,mathtools,mathrsfs}
+\usepackage{braket}
+\usepackage{enumitem}
+\usepackage{slashed}
+\usepackage{relsize}
+\usepackage{bm}
+
+\begin{document}
+
+\title{The chiral anomaly in Weyl semimetals}
+\author{K. Okyere}
+
+\abstract{1}
+
+\maketitle
+
+\section{Introduction}
+The Schrödinger equation is not Lorentz invariant thus, it violates special relativity.
+However, a relativistic quantum mechanics can be achieved by
+quantising the relativistic dispersion relation. This yields the Klein-Gordon
+equation~\cite{Klein} whose half-iterate is the famous Dirac equation~\cite{Dirac:102829}
+\begin{equation}
+  (i\hbar\gamma^\mu\partial_\mu - mc)\psi = 0.
+\end{equation}
+In the Weyl basis, the massless Dirac equation simplifies to two independent
+Weyl equations~\cite{Weyl} of opposite chirality
+\begin{equation}
+  i\hbar\sigma^\mu\partial_\mu \psi_1 = 0, \quad
+  i\hbar\bar{\sigma}^\mu\partial_\mu\psi_2 =0;
+\end{equation}
+\begin{equation}
+  \psi = \begin{pmatrix} \psi_1 \\ \psi_2  \end{pmatrix}, \quad 
+  \gamma^\mu = \begin{pmatrix} 0 & \sigma^\mu \\ \bar{\sigma}^\mu & 0 \end{pmatrix}.
+\end{equation}
+The massless Dirac equation is of great interest in quantum field theory because
+Noether's theorem necessitates conservation of the associated axial current
+in the classical theory; however, this is violated by
+the chiral anomaly~\cite{Adler,JackiwBell}
+\begin{equation}
+  {\partial_\mu j^\mu_5 }|_{m=0} \neq 0.
+\end{equation}
+This result is deeply connected to the topology of the quantum field theory
+(c.f.~\cite{KofiEthan} for a review), and 
+as we shall see, an analogous result in condensed matter systems is also
+profoundly topological.
+
+\section{Electronic structure and Berry phase}
+
+Insulators are said to be conventional (topologically trivial) if a
+continuous transformation (homeomorphism) of lattice parameters can
+transform the band structure into the band structure of the vacuum;
+the topology is the same as the ``atomic limit''. However, not all 
+insulators are topologically trivial.
+Suppose a system has an initial Hamiltonian, with a discrete non-degenerate 
+energy spectrum, that evolves
+continuously as $\widehat{H}(\lambda^\mu)$, where $\lambda^\mu(t)$ are time-dependent parameters.
+Furthermore, let $\ket{n(\lambda^\mu(t))}$ be instantaneous eigenstates 
+corresponding to energies $E_n(t)$. Assuming that the Hamiltonian evolves slowly 
+so that $\braket{m|\partial_t \widehat{H}|n} \approx 0$ (the adiabatic approximation),
+then an initial eigenstate evolves as
+\begin{equation}
+  \ket{n(t = t_0)} \xrightarrow{t \rightarrow t_1} e^{i \theta_n(t_1) +i \phi_n(t_1)}\ket{n(t_0)},
+\end{equation}
+where $\theta_n(t)$ and $\phi_n(t)$ are the dynamical and Berry phases respectively
+\begin{equation}
+\theta_n(t_1) = -\frac{1}{\hbar}\int_{t_0}^{t_1}{E_n(\tau)\,d\tau},
+\end{equation}
+\begin{equation}
+  \phi_n(t_1) = i\int_{t_0}^{t_1}{\braket{n |\partial_{\mu}| n}
+  \frac{d\lambda^\mu}{d\tau} \,d\tau}
+  = i\int_C{ \braket{n |\partial_\mu| n}\,d\lambda^\mu };
+  \qquad \partial_\mu \coloneq \frac{\partial}{\partial \lambda^\mu}
+\end{equation}
+This is the adiabatic theorem~\cite{AdiabaticThrm,Berry},
+and the last path integral describes how the phase of eigenstates changes as
+the system evolves through parameter space.
+We now define the Berry potential/connection as
+\begin{equation}
+  A_\mu(\lambda) =  \braket{n |\partial_\mu| n}.
+\end{equation}
+In quantum mechanics, the phase of the eigenstates is unphysical,
+the observable quantities are phase differences;
+hence, changing the phase of $\ket{n}$ should leave the equations of motion unchanged.
+Subsequently, the system is invariant under the transformation
+\begin{equation}
+  \ket{n} \rightarrow e^{i\beta(\lambda)}\ket{n(\lambda)}
+  \implies A_\mu \rightarrow A_\mu(\lambda) - \partial_\mu \beta(\lambda).
+\end{equation}
+This redundancy is similar to gauge freedom in electromagnetism and
+leaves the Berry phase invariant if the path through parameter space is a closed path.
+Hence we can construct a $\mathrm{U(1)}$ gauge theory for cyclic variations of
+$\widehat{H}(\lambda^\mu)$ analogous to electromagnetism
+where the Berry potential is the gauge connection and the corresponding
+field strength
+\begin{equation}
+  \Omega_{\mu\nu} = \partial_\mu A_\nu - \partial_\nu A_\mu,
+\end{equation}
+is called the Berry curvature.
+This is a gauge invariant quantity thus, using Stokes' theorem~\cite{StokesThrm},
+we can construct another expression for the Berry phase
+\begin{equation}
+\phi_n = i \oint_C{A_\mu\,d\lambda^\mu} = i \int_S{\Omega_{\mu\nu}\,ds^\mu\wedge ds^\nu},
+\end{equation}
+where C is the boundary of the surface S in parameter space. The last integral is the integral of the
+curvature form of a vector bundle on a smooth manifold and by using the Chern-Weil theory
+we have that
+\begin{equation}
+  \phi_n = 2\pi c_1,
+\end{equation}
+where $c_1$ is the first Chern class which is a topologically
+invariant integer~\cite{Chern},
+also known as the TKNN invariant because of its relation to
+the quantum Hall effect~\cite{TKNN}.
+Bloch's theorem states that the energy eigenstates of the
+$n^{th}$ band of a perfect crystal are of the form
+\begin{equation}
+  \psi_{n\bm{k}}(\bm{r}) = e^{i\bm{k}\cdot\bm{r}}u_{n\bm{k}}(\bm{r}),
+\end{equation}
+where $u_{n\bm{k}}$ has the periodicity of the direct lattice~\cite{Bloch}.
+Thus, the Berry potential becomes 
+\begin{equation}
+  A_{n\mu}(\bm{k}) =  \braket{u_{n\bm{k}} |\partial_\mu| u_{n\bm{k}}},
+\end{equation}
+and for two dimensional lattices we have a topological invariant
+\begin{equation}
+  C_n  = \int_{BZ}{\Omega_{\mu\nu}\,ds^\mu\wedge ds^\nu},
+\end{equation}
+associated to each band by integrating over the Brillouin zone.
+The electronic bands of topologically trivial insulators have a Chern number of 0,
+and the most famous Chern insulator is the Haldane model of graphene~\cite{Haldane}.
+At the interface between topological and conventional insulators the different 
+topological invariants force band degeneracy; the adiabatic theorem does not
+apply. Subsequently, topological insulators have topologically protected metallic 
+surface states because the vacuum is topologically trivial.
+Crystals with inversion symmetry have a symmetric Berry curvature
+($\Omega_{\mu\nu}(\bm{k}) = \Omega_{\mu\nu}(\bm{-k}) $)
+and time-reversal symmetry implies an antisymmetric Berry curvature 
+($\Omega_{\mu\nu}(\bm{k}) = -\Omega_{\mu\nu}(\bm{-k}) $). Thus, topologically 
+non-trivial insulators cannot posses both time-reversal and inversion symmetry.
+Thus far, we have seen Chern numbers used to classify two dimensional 
+topological insulators but they can also characterise three dimensional materials
+; specifically, Weyl semimetals.
+
+\section{The chiral anomaly in Weyl semimetals}
+
+Weyl semimetals are zero band gap materials where the Hamiltonian near band degeneracies,
+at $\bm{k}_w$, takes the form
+\begin{equation}
+  H(\bm{k}) = \chi v_g \bm{\sigma}\cdot \left(
+  \hbar (\bm{k} - \bm{k}_w) - \frac{e}{c}\bm{\mathcal{A}} \right),
+\end{equation}
+where $\bm{\mathcal{A}}$ is an external magnetic vector potential and
+$v_g$ is the pseudoparticle group velocity~\cite{SonSpivak}.
+These degeneracies are called Weyl points with chirality
+$\chi = \pm$ and are isolated in 
+the Brillouin zone because of the von Neumann-Wigner theorem~\cite{AvoidedCrossing}.
+Moreover, the Berry curvature is divergence-free across the Brillouin zone
+except at points of degeneracy; Weyl points are monopoles of a
+`topological charge'
+\begin{equation}
+  \oint_S{\Omega_{\mu\nu}\,ds^\mu\wedge ds^\nu} = c,
+\end{equation}
+where the surface $S$ encloses a Weyl point~\cite{SonSpivak}. 
+Furthermore, the Nielsen-Ninomiya theorem shows that these Weyl
+points come in pairs of opposite chirality~\cite{Nielsen-Ninomiya}.
+If the Weyl points are near the Fermi level the fermi surface will consist of electron and
+hole states, each surrounding Weyl points.
+However, the electron densities surrounding these Weyl nodes at the fermi level are not
+always conserved; the chiral anomaly
+\begin{equation}
+  \frac{dn}{dt} = \frac{e^2}{4\pi^2\hbar^2 c} \bm{E}\cdot\bm{B}.
+\end{equation}
+This is because the external fields induce a fermion current between Weyl nodes of opposite
+chirality that conserves the bulk particle number. This produces a large negative 
+longitudinal magnetoresistance in Weyl semimetals that is highly anisotropic. However,
+because the Weyl Hamiltonian and dispersion is only approximately true in the vicinity
+of Weyl points this may not be observable in condensed matter systems,
+as is the case for the chiral magnetic effect~\cite{ChiralMag}. Nevertheless,
+the chiral anomaly has been observed in TaAs~\cite{TaAs}.
+
+
+\bibliography{refs}
+
+\end{document}

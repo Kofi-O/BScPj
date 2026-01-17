@@ -1,0 +1,73 @@
+
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
+
+\bibitem{Klein}
+O.~Klein, \emph{Quantum theory and five-dimensional relativity theory},  in \emph{\href{https://doi.org/10.1142/9789814368728_0006}{The Oskar Klein Memorial Lectures}}, pp.~67--80 (2014).
+
+\bibitem{Dirac:102829}
+P.A.M.~Dirac, \emph{{The principles of quantum mechanics}}, Clarendon Press, Oxford, 4~ed. (1958).
+
+\bibitem{Weyl}
+H.~Weyl, \emph{Gravitation and the electron}, \href{https://doi.org/10.1073/pnas.15.4.323}{\emph{Proc. Natl. Acad. Sci. U.S.A} {\bfseries 15} (1929) 323}.
+
+
+\bibitem{Adler}
+S.L.~Adler, \emph{Axial-vector vertex in spinor electrodynamics}, \href{https://doi.org/10.1103/PhysRev.177.2426}{\emph{Phys. Rev.} {\bfseries 177} (1969) 2426}.
+
+
+\bibitem{JackiwBell}
+J.S.~Bell and R.~Jackiw, \emph{A pcac puzzle: $\pi$0{\textrightarrow}$\gamma$$\gamma$ in the $\sigma$-model}, \href{https://doi.org/10.1007/BF02823296}{\emph{Il Nuovo Cimento A (1965-1970)} {\bfseries 60} (1969) 47}.
+
+
+\bibitem{KofiEthan}
+K.~Okyere and E.~Arnold, \emph{Symmetries in classical and quantum field theory},  \href{https://arxiv.org/abs/https://github.com/Kofi-O/Dai-Freed/blob/master/report.pdf}{{\ttfamily https://github.com/Kofi-O/Dai-Freed/blob/master/report.pdf}}.
+
+
+\bibitem{AdiabaticThrm}
+J.C.~Budich and B.~Trauzettel, \emph{From the adiabatic theorem of quantum mechanics to topological states of matter}, \href{https://doi.org/10.1002/pssr.201206416}{\emph{Phys. Status Solidi RRL} {\bfseries 7} (2013) 109}.
+
+
+\bibitem{Berry}
+M.V.~Berry, \emph{Quantal phase factors accompanying adiabatic changes}, \href{https://doi.org/10.1098/rspa.1984.0023}{\emph{Proc. R. Soc. A: Math. Phys. Sci.} {\bfseries 392} (1984) 45}.
+
+
+\bibitem{StokesThrm}
+H.~Edwards, \emph{Advanced Calculus: A Differential Forms Approach}, Mathematics and Statistics, Birkh{\"a}user Boston (2013).
+
+\bibitem{Chern}
+S.-S.~Chern and J.~Simons, \emph{Characteristic forms and geometric invariants}, \href{https://doi.org/10.2307/1971013}{\emph{Annals of Mathematics} {\bfseries 99} (1974) 48}.
+
+
+\bibitem{TKNN}
+D.J.~Thouless, M.~Kohmoto, M.P.~Nightingale and M.~den Nijs, \emph{Quantized hall conductance in a two-dimensional periodic potential}, \href{https://doi.org/10.1103/PhysRevLett.49.405}{\emph{Phys. Rev. Lett.} {\bfseries 49} (1982) 405}.
+
+
+\bibitem{Bloch}
+F.~Bloch, \emph{\href{http://132.239.186.3/2018/Fall/physics211a/topic/bloch.pdf}{Quantum mechanics of electrons in crystal lattices}}, {\emph{Z. Phys} {\bfseries 52} (1928) 555}.
+
+
+\bibitem{Haldane}
+T.~Thonhauser and D.~Vanderbilt, \emph{Insulator/chern-insulator transition in the haldane model}, \href{https://doi.org/10.1103/PhysRevB.74.235111}{\emph{Phys. Rev. B} {\bfseries 74} (2006) 235111}.
+
+
+\bibitem{SonSpivak}
+D.T.~Son and B.Z.~Spivak, \emph{Chiral anomaly and classical negative magnetoresistance of weyl metals}, \href{https://doi.org/10.1103/PhysRevB.88.104412}{\emph{Phys. Rev. B} {\bfseries 88} (2013) 104412}.
+
+
+\bibitem{AvoidedCrossing}
+S.~Friedland, J.W.~Robbin and J.H.~Sylvester, \emph{On the crossing rule}, \href{https://doi.org/https://doi.org/10.1002/cpa.3160370104}{\emph{Commun. Pure Appl. Math.} {\bfseries 37} (1984) 19}.
+
+
+\bibitem{Nielsen-Ninomiya}
+D.~Friedan, \emph{A proof of the nielsen-ninomiya theorem}, {\emph{Comm. Math. Phys.} {\bfseries 85} (1982) 481}.
+
+
+\bibitem{ChiralMag}
+M.M.~Vazifeh and M.~Franz, \emph{Electromagnetic response of weyl semimetals}, \href{https://doi.org/10.1103/PhysRevLett.111.027201}{\emph{Phys. Rev. Lett.} {\bfseries 111} (2013) 027201}.
+
+
+\bibitem{TaAs}
+X.~Huang, L.~Zhao, Y.~Long, P.~Wang, D.~Chen, Z.~Yang et~al., \emph{Observation of the chiral-anomaly-induced negative magnetoresistance in 3d weyl semimetal taas}, \href{https://doi.org/10.1103/PhysRevX.5.031023}{\emph{Phys. Rev. X} {\bfseries 5} (2015) 031023}.
+
+
+\end{thebibliography}\endgroup
