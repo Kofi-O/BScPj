@@ -5,7 +5,7 @@
 O.~Klein, \emph{Quantum theory and five-dimensional relativity theory},  in \emph{\href{https://doi.org/10.1142/9789814368728_0006}{The Oskar Klein Memorial Lectures}}, pp.~67--80 (2014).
 
 \bibitem{Dirac:102829}
-P.A.M.~Dirac, \emph{{The principles of quantum mechanics}}, Clarendon Press, Oxford, 4~ed. (1958).
+P.A.M.~Dirac, \emph{{\href{https://cds.cern.ch/record/102829}{The principles of quantum mechanics}}}, Clarendon Press, Oxford, 4~ed. (1958).
 
 \bibitem{Weyl}
 H.~Weyl, \emph{Gravitation and the electron}, \href{https://doi.org/10.1073/pnas.15.4.323}{\emph{Proc. Natl. Acad. Sci. U.S.A} {\bfseries 15} (1929) 323}.
@@ -20,8 +20,7 @@ J.S.~Bell and R.~Jackiw, \emph{A pcac puzzle: $\pi$0{\textrightarrow}$\gamma$$\g
 
 
 \bibitem{KofiEthan}
-K.~Okyere and E.~Arnold, \emph{Symmetries in classical and quantum field theory},  \href{https://arxiv.org/abs/https://github.com/Kofi-O/Dai-Freed/blob/master/report.pdf}{{\ttfamily https://github.com/Kofi-O/Dai-Freed/blob/master/report.pdf}}.
-
+K.~Okyere and E.~Arnold, ``Symmetries in classical and quantum field theory.'' \url{https://github.com/Kofi-O/Dai-Freed/blob/master/report.pdf}, 2025.
 
 \bibitem{AdiabaticThrm}
 J.C.~Budich and B.~Trauzettel, \emph{From the adiabatic theorem of quantum mechanics to topological states of matter}, \href{https://doi.org/10.1002/pssr.201206416}{\emph{Phys. Status Solidi RRL} {\bfseries 7} (2013) 109}.
@@ -32,7 +31,7 @@ M.V.~Berry, \emph{Quantal phase factors accompanying adiabatic changes}, \href{h
 
 
 \bibitem{StokesThrm}
-H.~Edwards, \emph{Advanced Calculus: A Differential Forms Approach}, Mathematics and Statistics, Birkh{\"a}user Boston (2013).
+H.~Edwards, \emph{\href{https://books.google.co.uk/books?id=bFPmBwAAQBAJ}{Advanced Calculus: A Differential Forms Approach}}, Mathematics and Statistics, Birkh{\"a}user Boston (2013).
 
 \bibitem{Chern}
 S.-S.~Chern and J.~Simons, \emph{Characteristic forms and geometric invariants}, \href{https://doi.org/10.2307/1971013}{\emph{Annals of Mathematics} {\bfseries 99} (1974) 48}.
@@ -59,7 +58,7 @@ S.~Friedland, J.W.~Robbin and J.H.~Sylvester, \emph{On the crossing rule}, \href
 
 
 \bibitem{Nielsen-Ninomiya}
-D.~Friedan, \emph{A proof of the nielsen-ninomiya theorem}, {\emph{Comm. Math. Phys.} {\bfseries 85} (1982) 481}.
+D.~Friedan, \emph{A proof of the nielsen-ninomiya theorem}, \href{https://doi.org/10.1007/BF01403500}{\emph{Comm. Math. Phys.} {\bfseries 85} (1982) 481}.
 
 
 \bibitem{ChiralMag}
