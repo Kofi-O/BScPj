@@ -4,26 +4,30 @@ The top-level auxiliary file: report1.aux
 The style file: JHEP.bst.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: refs.bib
+You can't pop an empty literal stack for entry Dirac:102829
+while executing---line 1184 of file JHEP.bst.bst
+You can't pop an empty literal stack for entry StokesThrm
+while executing---line 1184 of file JHEP.bst.bst
 You've used 18 entries,
-            2331 wiz_defined-function locations,
-            706 strings with 7061 characters,
-and the built_in function-call counts, 7054 in all, are:
-= -- 755
+            2360 wiz_defined-function locations,
+            716 strings with 7144 characters,
+and the built_in function-call counts, 7086 in all, are:
+= -- 757
 > -- 172
 < -- 0
 + -- 54
 - -- 36
-* -- 553
-:= -- 890
+* -- 561
+:= -- 894
 add.period$ -- 18
 call.type$ -- 18
 change.case$ -- 17
 chr.to.int$ -- 0
 cite$ -- 18
-duplicate$ -- 532
-empty$ -- 666
+duplicate$ -- 534
+empty$ -- 672
 format.name$ -- 108
-if$ -- 1815
+if$ -- 1823
 int.to.chr$ -- 0
 int.to.str$ -- 18
 missing$ -- 64
@@ -44,4 +48,5 @@ type$ -- 0
 warning$ -- 0
 while$ -- 80
 width$ -- 20
-write$ -- 192
+write$ -- 194
+(There were 2 error messages)

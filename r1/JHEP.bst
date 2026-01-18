@@ -34,6 +34,7 @@ ENTRY
     editor
     howpublished
     institution
+    isbn
     journal
     key
     month
@@ -246,6 +247,18 @@ FUNCTION {format.url}
   {"\href{" url * "}{" * url * "}" *}
   if$
 }
+
+%% Kofi did this
+
+FUNCTION {format.isbn}
+{
+  isbn empty$
+  {""}
+  {"\, ISBN:" * isbn * "" *}
+  if$
+}
+
+
 
 
 %% from http://mirrors.ctan.org/biblio/bibtex/contrib/doc/btxFAQ.pdf Q.35
@@ -846,6 +859,10 @@ FUNCTION {book}
   doi empty$
     {}
     { format.doi "{" * doi * "}" * "DOI" output.check }
+  if$
+  isbn empty$
+    {}
+    { format.isbn isbn output.check }
   if$
   format.eprint.paren output
   fin.entry
