@@ -35,6 +35,10 @@ As translated by \href{https://api.semanticscholar.org/CorpusID:195782508}{D. H.
 \bibitem{dirac1958}
 P.A.M.~Dirac, \emph{\href{https://cds.cern.ch/record/102829}{The Principles of Quantum Mechanics}}, Clarendon Press, Oxford, 4~ed. (1958)\!\! , ISBN:9780198520115.
 
+\bibitem{KofiEthan}
+K.~Okyere and E.~Arnold, ``Symmetries in classical and quantum field theory.'' \url{URL:https://github.com/Kofi-O/Dai-Freed/blob/master/report.pdf}, 2025.
+\newblock (retrived 2026-03-18).
+
 \bibitem{NoetherTran}
 E.~Noether, \emph{Invariant variation problems}, \href{https://doi.org/10.1080/00411457108231446}{\emph{Transport Theor. Stat. Phys.} {\bfseries 1} (1971) 186}, \href{https://doi.org/10.1080/00411457108231446}{DOI:10.1080/00411457108231446}.
 
@@ -151,10 +155,6 @@ R.~Rivers, \emph{\href{https://books.google.co.uk/books?id=7dw-t0HkAVcC}{Path In
 \bibitem{Slavnov–Taylor}
 M.~D\"{u}tsch, \emph{Slavnov–Taylor Identities from the Causal Point of View}, \href{https://doi.org/10.1142/S0217751X97001699}{\emph{Int. J. Mod. Phys. A} {\bfseries 12} (1997) 3205}, \href{https://doi.org/10.1142/S0217751X97001699}{DOI:10.1142/S0217751X97001699}.
 
-
-\bibitem{KofiEthan}
-K.~Okyere and E.~Arnold, ``Symmetries in classical and quantum field theory.'' \url{URL:https://github.com/Kofi-O/Dai-Freed/blob/master/report.pdf}, 2025.
-\newblock (retrived 2026-03-18).
 
 \bibitem{BerezinBook}
 F.~Berezin, \emph{\href{https://doi.org/10.1016/B978-0-12-089450-5.50007-9}{Chapter I - Generating Functionals}},  in \emph{The Method of Second Quantization}, vol.~24 of \emph{Pure and Applied Physics}, pp.~49--77, Academic Press (1966)\!\! , ISBN:9780323159401.

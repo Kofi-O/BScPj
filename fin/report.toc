@@ -6,9 +6,9 @@
 \contentsline {subsection}{\numberline {3.1}Magnetic WSMs}{7}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Noncentrosymmetric WSMs}{7}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Dirac matter}{8}{subsection.3.3}%
-\contentsline {section}{\numberline {4}The chiral anomaly}{8}{section.4}%
+\contentsline {section}{\numberline {4}The chiral anomaly}{9}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Quantum field theory}{9}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Condensed matter}{12}{subsection.4.2}%
-\contentsline {section}{\numberline {5}Magnetoresistance experiments}{13}{section.5}%
+\contentsline {subsection}{\numberline {4.2}Condensed matter}{13}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Magnetoresistance experiments}{14}{section.5}%
 \contentsline {section}{\numberline {6}Conclusion}{15}{section.6}%
 \contentsline {section}{\numberline {7}Lay summary}{19}{section.7}%
