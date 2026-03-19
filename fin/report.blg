@@ -1,0 +1,72 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report.aux
+The style file: JHEP.bst.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: refs.bib
+Repeated entry---line 692 of file refs.bib
+ : @article{Adler
+ :               ,
+I'm skipping whatever remains of this entry
+You can't pop an empty literal stack for entry Klein-tran
+while executing---line 1195 of file JHEP.bst.bst
+You can't pop an empty literal stack for entry dirac1958
+while executing---line 1195 of file JHEP.bst.bst
+You can't pop an empty literal stack for entry StokesThrm
+while executing---line 1195 of file JHEP.bst.bst
+You can't pop an empty literal stack for entry Divthrm
+while executing---line 1195 of file JHEP.bst.bst
+You can't pop an empty literal stack for entry rivers1988path
+while executing---line 1195 of file JHEP.bst.bst
+You can't pop an empty literal stack for entry BerezinBook
+while executing---line 1195 of file JHEP.bst.bst
+You can't pop an empty literal stack for entry Fujikawa
+while executing---line 1195 of file JHEP.bst.bst
+You can't pop an empty literal stack for entry calcvar
+while executing---line 1195 of file JHEP.bst.bst
+You can't pop an empty literal stack for entry Spectral
+while executing---line 1195 of file JHEP.bst.bst
+You can't pop an empty literal stack for entry Ashcroft:102652
+while executing---line 1195 of file JHEP.bst.bst
+You've used 55 entries,
+            2390 wiz_defined-function locations,
+            1025 strings with 15132 characters,
+and the built_in function-call counts, 24580 in all, are:
+= -- 2627
+> -- 634
+< -- 0
++ -- 190
+- -- 135
+* -- 2189
+:= -- 3071
+add.period$ -- 56
+call.type$ -- 55
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 55
+duplicate$ -- 1874
+empty$ -- 2344
+format.name$ -- 405
+if$ -- 6299
+int.to.chr$ -- 0
+int.to.str$ -- 55
+missing$ -- 200
+newline$ -- 214
+num.names$ -- 57
+pop$ -- 193
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 891
+stack$ -- 0
+substring$ -- 1558
+swap$ -- 493
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 273
+width$ -- 57
+write$ -- 652
+(There were 11 error messages)

@@ -1,0 +1,214 @@
+
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
+
+\bibitem{Landau:1956}
+L.D.~Landau, \emph{{The Theory of a Fermi Liquid}}, \href{https://doi.org/10.1016/b978-0-08-010586-4.50095-x}{\emph{J. Exp. Theor. Phys.} {\bfseries 30} (1956) }, \href{https://doi.org/10.1016/b978-0-08-010586-4.50095-x}{DOI:10.1016/b978-0-08-010586-4.50095-x}.
+
+
+\bibitem{WSMreview}
+N.P.~Armitage, E.J.~Mele and A.~Vishwanath, \emph{Weyl and Dirac semimetals in three-dimensional solids}, \href{https://doi.org/10.1103/RevModPhys.90.015001}{\emph{Rev. Mod. Phys.} {\bfseries 90} (2018) 015001}, \href{https://doi.org/10.1103/RevModPhys.90.015001}{DOI:10.1103/RevModPhys.90.015001}.
+
+
+\bibitem{Adler}
+S.L.~Adler, \emph{Axial-Vector Vertex in Spinor Electrodynamics}, \href{https://doi.org/10.1103/PhysRev.177.2426}{\emph{Phys. Rev.} {\bfseries 177} (1969) 2426}, \href{https://doi.org/10.1103/PhysRev.177.2426}{DOI:10.1103/PhysRev.177.2426}.
+
+
+\bibitem{Bell-Jackiw}
+J.S.~Bell and R.~Jackiw, \emph{A PCAC puzzle: $\pi^0${\textrightarrow}$\gamma$$\gamma$ in the $\sigma$-model}, \href{https://doi.org/10.1007/BF02823296}{\emph{Il Nuovo Cimento A (1965-1970)} {\bfseries 60} (1969) 47}, \href{https://doi.org/10.1007/BF02823296}{DOI:10.1007/BF02823296}.
+
+
+\bibitem{SonSpivak}
+D.T.~Son and B.Z.~Spivak, \emph{Chiral anomaly and classical negative magnetoresistance of Weyl metals}, \href{https://doi.org/10.1103/PhysRevB.88.104412}{\emph{Phys. Rev. B} {\bfseries 88} (2013) 104412}, \href{https://doi.org/10.1103/PhysRevB.88.104412}{DOI:10.1103/PhysRevB.88.104412}.
+
+
+\bibitem{Atiyah-Singer}
+M.F.~Atiyah and I.M.~Singer, \emph{The Index of Elliptic Operators: I}, \href{https://doi.org/10.2307/1970715}{\emph{Ann. Math.} {\bfseries 87} (1968) 484}, \href{https://doi.org/10.2307/1970715}{DOI:10.2307/1970715}.
+
+
+\bibitem{Klein-tran}
+O.~Klein, \emph{\href{https://doi.org/10.1142/9789814368728_0006}{Quantum Theory and Five-Dimensional Relativity Theory}},  in \emph{The Oskar Klein Memorial Lectures}, G.~Ekspong, ed., (London), pp.~67--80, World Scientific (2014)\!\! , ISBN:9810214502.
+
+\bibitem{Gordon1926}
+W.~Gordon, \emph{Der Comptoneffekt nach der Schr{\"o}dingerschen Theorie}, \href{https://doi.org/10.1007/BF01390840}{\emph{Z. Phys.} {\bfseries 40} (1926) 117}, \href{https://doi.org/10.1007/BF01390840}{DOI:10.1007/BF01390840}.
+As translated by \href{https://api.semanticscholar.org/CorpusID:195782508}{D. H. Delphenich, URL:\texttt{https://api.semanticscholar.org/CorpusID:195782508}} (retrived 2026-03-18).
+
+\bibitem{dirac1958}
+P.A.M.~Dirac, \emph{\href{https://cds.cern.ch/record/102829}{The Principles of Quantum Mechanics}}, Clarendon Press, Oxford, 4~ed. (1958)\!\! , ISBN:9780198520115.
+
+\bibitem{NoetherTran}
+E.~Noether, \emph{Invariant variation problems}, \href{https://doi.org/10.1080/00411457108231446}{\emph{Transport Theor. Stat. Phys.} {\bfseries 1} (1971) 186}, \href{https://doi.org/10.1080/00411457108231446}{DOI:10.1080/00411457108231446}.
+
+
+\bibitem{Weyl-tran}
+H.~Weyl, \emph{Gravitation and the electron}, \href{https://doi.org/10.1073/pnas.15.4.323}{\emph{Proc. Natl. Acad. Sci. U.S.A.} {\bfseries 15} (1929) 323}, \href{https://doi.org/10.1073/pnas.15.4.323}{DOI:10.1073/pnas.15.4.323}.
+
+
+\bibitem{AdiabaticThrm}
+J.C.~Budich and B.~Trauzettel, \emph{From the adiabatic theorem of quantum mechanics to topological states of matter}, \href{https://doi.org/10.1002/pssr.201206416}{\emph{Phys. Status Solidi RRL} {\bfseries 7} (2013) 109}, \href{https://doi.org/10.1002/pssr.201206416}{DOI:10.1002/pssr.201206416}.
+
+
+\bibitem{Berry}
+M.V.~Berry, \emph{Quantal phase factors accompanying adiabatic changes}, \href{https://doi.org/10.1098/rspa.1984.0023}{\emph{Proc. R. Soc. A: Math. Phys. Sci.} {\bfseries 392} (1984) 45}, \href{https://doi.org/10.1098/rspa.1984.0023}{DOI:10.1098/rspa.1984.0023}.
+
+
+\bibitem{StokesThrm}
+H.~Edwards, \emph{\href{https://books.google.co.uk/books?id=bFPmBwAAQBAJ}{Advanced Calculus: A Differential Forms Approach}}, Mathematics and Statistics, Birkh{\"a}user Boston (2013)\!\! , ISBN:9781461202714.
+
+\bibitem{Chern}
+S.-S.~Chern and J.~Simons, \emph{Characteristic Forms and Geometric Invariants}, \href{https://doi.org/10.2307/1971013}{\emph{Ann. Math.} {\bfseries 99} (1974) 48}, \href{https://doi.org/10.2307/1971013}{DOI:10.2307/1971013}.
+
+
+\bibitem{TKNN}
+D.J.~Thouless, M.~Kohmoto, M.P.~Nightingale et~al., \emph{Quantized Hall Conductance in a Two-Dimensional Periodic Potential}, \href{https://doi.org/10.1103/PhysRevLett.49.405}{\emph{Phys. Rev. Lett.} {\bfseries 49} (1982) 405}, \href{https://doi.org/10.1103/PhysRevLett.49.405}{DOI:10.1103/PhysRevLett.49.405}.
+
+
+\bibitem{Bloch}
+W.~Kohn, \emph{Theory of Bloch Electrons in a Magnetic Field: The Effective Hamiltonian}, \href{https://doi.org/10.1103/PhysRev.115.1460}{\emph{Phys. Rev.} {\bfseries 115} (1959) 1460}, \href{https://doi.org/10.1103/PhysRev.115.1460}{DOI:10.1103/PhysRev.115.1460}.
+
+
+\bibitem{Haldane}
+T.~Thonhauser and D.~Vanderbilt, \emph{Insulator/Chern-insulator transition in the Haldane model}, \href{https://doi.org/10.1103/PhysRevB.74.235111}{\emph{Phys. Rev. B} {\bfseries 74} (2006) 235111}, \href{https://doi.org/10.1103/PhysRevB.74.235111}{DOI:10.1103/PhysRevB.74.235111}.
+
+
+\bibitem{AvoidedCrossing}
+S.~Friedland, J.W.~Robbin and J.H.~Sylvester, \emph{On the crossing rule}, \href{https://doi.org/10.1002/cpa.3160370104}{\emph{Commun. Pure Appl. Math.} {\bfseries 37} (1984) 19}, \href{https://doi.org/10.1002/cpa.3160370104}{DOI:10.1002/cpa.3160370104}.
+
+
+\bibitem{Divthrm}
+C.~Wylie and L.~Barrett, \emph{\href{https://books.google.co.uk/books?id=Po8eAQAAIAAJ}{Advanced Engineering Mathematics}}, McGraw-Hill (1995)\!\! , ISBN:9780070722064.
+
+\bibitem{Nielsen-Ninomiya}
+D.~Friedan, \emph{A proof of the Nielsen-Ninomiya theorem}, \href{https://doi.org/10.1007/BF01403500}{\emph{Comm. Math. Phys.} {\bfseries 85} (1982) 481}, \href{https://doi.org/10.1007/BF01403500}{DOI:10.1007/BF01403500}.
+
+
+\bibitem{Kramers}
+M.J.~Klein, \emph{On a Degeneracy Theorem of Kramers}, \href{https://doi.org/10.1119/1.1933118}{\emph{Am. J. Phys.} {\bfseries 20} (1952) 65}, \href{https://doi.org/10.1119/1.1933118}{DOI:10.1119/1.1933118}.
+
+
+\bibitem{DSM_Na3Bi}
+Z.~Wang, Y.~Sun, X.-Q.~Chen et~al., \emph{Dirac semimetal and topological phase transitions in ${A}_{3}$Bi ($A=\text{Na}$, K, Rb)}, \href{https://doi.org/10.1103/PhysRevB.85.195320}{\emph{Phys. Rev. B} {\bfseries 85} (2012) 195320}, \href{https://doi.org/10.1103/PhysRevB.85.195320}{DOI:10.1103/PhysRevB.85.195320}.
+
+
+\bibitem{pyrochlore_abin}
+X.~Wan, A.M.~Turner, A.~Vishwanath et~al., \emph{Topological semimetal and Fermi-arc surface states in the electronic structure of pyrochlore iridates}, \href{https://doi.org/10.1103/PhysRevB.83.205101}{\emph{Phys. Rev. B} {\bfseries 83} (2011) 205101}, \href{https://doi.org/10.1103/PhysRevB.83.205101}{DOI:10.1103/PhysRevB.83.205101}.
+
+
+\bibitem{pyrochlore_exp}
+H.~Sagayama, D.~Uematsu, T.~Arima et~al., \emph{Determination of long-range all-in-all-out ordering of Ir${}^{4+}$ moments in a pyrochlore iridate Eu${}_{2}$Ir${}_{2}$O${}_{7}$ by resonant X-ray diffraction}, \href{https://doi.org/10.1103/PhysRevB.87.100403}{\emph{Phys. Rev. B} {\bfseries 87} (2013) 100403}, \href{https://doi.org/10.1103/PhysRevB.87.100403}{DOI:10.1103/PhysRevB.87.100403}.
+
+
+\bibitem{pyrochlore_Hall}
+K.~Ueda, R.~Kaneko, H.~Ishizuka et~al., \emph{Spontaneous Hall effect in the Weyl semimetal candidate of all-in all-out pyrochlore iridate}, \href{https://doi.org/10.1038/s41467-018-05530-9}{\emph{Nat. Commun.} {\bfseries 9} (2018) 3032}, \href{https://doi.org/10.1038/s41467-018-05530-9}{DOI:10.1038/s41467-018-05530-9}.
+
+
+\bibitem{TaAs_abin}
+H.~Weng, C.~Fang, Z.~Fang et~al., \emph{Weyl Semimetal Phase in Noncentrosymmetric Transition-Metal Monophosphides}, \href{https://doi.org/10.1103/PhysRevX.5.011029}{\emph{Phys. Rev. X} {\bfseries 5} (2015) 011029}, \href{https://doi.org/10.1103/PhysRevX.5.011029}{DOI:10.1103/PhysRevX.5.011029}.
+
+
+\bibitem{WSMfermiarc}
+M.Z.~Hasan, S.-Y.~Xu, I.~Belopolski et~al., \emph{Discovery of Weyl Fermion Semimetals and Topological Fermi Arc States}, \href{https://doi.org/10.1146/annurev-conmatphys-031016-025225}{\emph{Annu. Rev. Condens. Matter Phys.} {\bfseries 8} (2017) 289}, \href{https://doi.org/10.1146/annurev-conmatphys-031016-025225}{DOI:10.1146/annurev-conmatphys-031016-025225}.
+
+
+\bibitem{ARPES_thry}
+A.~Damascelli, Z.~Hussain and Z.-X.~Shen, \emph{Angle-resolved photoemission studies of the cuprate superconductors}, \href{https://doi.org/10.1103/RevModPhys.75.473}{\emph{Rev. Mod. Phys.} {\bfseries 75} (2003) 473}, \href{https://doi.org/10.1103/RevModPhys.75.473}{DOI:10.1103/RevModPhys.75.473}.
+
+
+\bibitem{TaAs_exp}
+B.Q.~Lv, H.M.~Weng, B.B.~Fu et~al., \emph{Experimental Discovery of Weyl Semimetal TaAs}, \href{https://doi.org/10.1103/PhysRevX.5.031013}{\emph{Phys. Rev. X} {\bfseries 5} (2015) 031013}, \href{https://doi.org/10.1103/PhysRevX.5.031013}{DOI:10.1103/PhysRevX.5.031013}.
+
+
+\bibitem{Na3Bi_abin}
+Z.~Wang, Y.~Sun, X.-Q.~Chen et~al., \emph{Dirac semimetal and topological phase transitions in ${A}_{3}$Bi ($A=\text{Na}$, K, Rb)}, \href{https://doi.org/10.1103/PhysRevB.85.195320}{\emph{Phys. Rev. B} {\bfseries 85} (2012) 195320}, \href{https://doi.org/10.1103/PhysRevB.85.195320}{DOI:10.1103/PhysRevB.85.195320}.
+
+
+\bibitem{Cd3As2_abin}
+Z.~Wang, H.~Weng, Q.~Wu et~al., \emph{Three-dimensional Dirac semimetal and quantum transport in Cd${}_{3}$As${}_{2}$}, \href{https://doi.org/10.1103/PhysRevB.88.125427}{\emph{Phys. Rev. B} {\bfseries 88} (2013) 125427}, \href{https://doi.org/10.1103/PhysRevB.88.125427}{DOI:10.1103/PhysRevB.88.125427}.
+
+
+\bibitem{Cd3As2_structure}
+M.N.~Ali, Q.~Gibson, S.~Jeon et~al., \emph{The Crystal and Electronic Structures of Cd$_{3}$As$_{2}$, the Three-Dimensional Electronic Analogue of Graphene}, \href{https://doi.org/10.1021/ic403163d}{\emph{Inorg. Chem.} {\bfseries 53} (2014) 4062}, \href{https://doi.org/10.1021/ic403163d}{DOI:10.1021/ic403163d}.
+
+
+\bibitem{Cd3As2_polymorphism}
+A.~Pietraszko and K.~{\L}ukaszewicz, \emph{{A refinement of the crystal structure of {$\alpha$}''-Cd${\sb 3}$As${\sb 2}$}}, \href{https://doi.org/10.1107/S0567740869003323}{\emph{Acta Crystallogr. B} {\bfseries 25} (1969) 988}, \href{https://doi.org/10.1107/S0567740869003323}{DOI:10.1107/S0567740869003323}.
+
+
+\bibitem{Cd3As2_structure2}
+H.~Kim, M.~Goyal, S.~Salmani-Rezaie et~al., \emph{Point group symmetry of cadmium arsenide thin films determined by convergent beam electron diffraction}, \href{https://doi.org/10.1103/PhysRevMaterials.3.084202}{\emph{Phys. Rev. Mater.} {\bfseries 3} (2019) 084202}, \href{https://doi.org/10.1103/PhysRevMaterials.3.084202}{DOI:10.1103/PhysRevMaterials.3.084202}.
+
+
+\bibitem{Na3Bi_ARPES}
+Z.K.~Liu, B.~Zhou, Y.~Zhang et~al., \emph{Discovery of a Three-Dimensional Topological Dirac Semimetal, Na$_{3}$Bi}, \href{https://doi.org/10.1126/science.1245085}{\emph{Science} {\bfseries 343} (2014) 864}, \href{https://doi.org/10.1126/science.1245085}{DOI:10.1126/science.1245085}.
+
+
+\bibitem{Cd3As2_ARPES}
+S.~Borisenko, Q.~Gibson, D.~Evtushinsky et~al., \emph{Experimental Realization of a Three-Dimensional Dirac Semimetal}, \href{https://doi.org/10.1103/PhysRevLett.113.027603}{\emph{Phys. Rev. Lett.} {\bfseries 113} (2014) 027603}, \href{https://doi.org/10.1103/PhysRevLett.113.027603}{DOI:10.1103/PhysRevLett.113.027603}.
+
+
+\bibitem{rivers1988path}
+R.~Rivers, \emph{\href{https://books.google.co.uk/books?id=7dw-t0HkAVcC}{Path Integral Methods in Quantum Field Theory}}, Cambridge Monographs on Mathematical Physics, Cambridge University Press (1988)\!\! , ISBN:9780521368704.
+
+\bibitem{Slavnov–Taylor}
+M.~D\"{u}tsch, \emph{Slavnov–Taylor Identities from the Causal Point of View}, \href{https://doi.org/10.1142/S0217751X97001699}{\emph{Int. J. Mod. Phys. A} {\bfseries 12} (1997) 3205}, \href{https://doi.org/10.1142/S0217751X97001699}{DOI:10.1142/S0217751X97001699}.
+
+
+\bibitem{KofiEthan}
+K.~Okyere and E.~Arnold, ``Symmetries in classical and quantum field theory.'' \url{URL:https://github.com/Kofi-O/Dai-Freed/blob/master/report.pdf}, 2025.
+\newblock (retrived 2026-03-18).
+
+\bibitem{BerezinBook}
+F.~Berezin, \emph{\href{https://doi.org/10.1016/B978-0-12-089450-5.50007-9}{Chapter I - Generating Functionals}},  in \emph{The Method of Second Quantization}, vol.~24 of \emph{Pure and Applied Physics}, pp.~49--77, Academic Press (1966)\!\! , ISBN:9780323159401.
+
+\bibitem{Fujikawa}
+K.~Fujikawa and H.~Suzuki, \emph{\href{https://doi.org/10.1093/acprof:oso/9780198529132.003.0005}{The Jacobian in path integrals and quantum anomalies}},  in \emph{Path Integrals and Quantum Anomalies}, (Oxford), Clarendon Press (2004)\!\! , ISBN:9780198529132.
+
+\bibitem{Fujikawa2}
+K.~Fujikawa, \emph{Path integral for gauge theories with fermions}, \href{https://doi.org/10.1103/PhysRevD.21.2848}{\emph{Phys. Rev. D} {\bfseries 21} (1980) 2848}, \href{https://doi.org/10.1103/PhysRevD.21.2848}{DOI:10.1103/PhysRevD.21.2848}.
+
+
+\bibitem{calcvar}
+J.~Jost and X.~Li-Jost, \emph{\href{https://books.google.co.uk/books?id=QN8Iw7fUA-8C}{The classical theory}},  in \emph{Calculus of Variations}, Cambridge Studies in Advanced Mathematics, (Cambridge), pp.~4--8, Cambridge University Press (1998)\!\! , ISBN:9780521642033.
+
+\bibitem{Spectral}
+M.S.~Birman and M.Z.~Solomjak, \emph{\href{https://doi.org/10.1007/978-94-009-4586-9_2}{Hilbert Space Geometry. Continuous Linear Operators}},  in \emph{Spectral Theory of Self-Adjoint Operators in Hilbert Space}, (Dordrecht), pp.~18--59, Springer Netherlands (1987)\!\! , ISBN:978-94-009-4586-9.
+
+\bibitem{AST-Alvarez-Gaume}
+L.~Alvarez-Gaume, \emph{A note on the Atiyah-Singer index theorem}, \href{https://doi.org/10.1088/0305-4470/16/18/018}{\emph{J. Phys. A: Math. Gen.} {\bfseries 16} (1983) 4177}, \href{https://doi.org/10.1088/0305-4470/16/18/018}{DOI:10.1088/0305-4470/16/18/018}.
+
+
+\bibitem{DiffGeomGauge}
+T.~Eguchi, P.B.~Gilkey and A.J.~Hanson, \emph{Gravitation, gauge theories and differential geometry}, \href{https://doi.org/10.1016/0370-1573(80)90130-1}{\emph{Phys. Rep.} {\bfseries 66} (1980) 213}, \href{https://doi.org/10.1016/0370-1573(80)90130-1}{DOI:10.1016/0370-1573(80)90130-1}.
+
+
+\bibitem{JackiwRebbi1977}
+R.~Jackiw and C.~Rebbi, \emph{Spinor analysis of Yang-Mills theory}, \href{https://doi.org/10.1103/PhysRevD.16.1052}{\emph{Phys. Rev. D} {\bfseries 16} (1977) 1052}, \href{https://doi.org/10.1103/PhysRevD.16.1052}{DOI:10.1103/PhysRevD.16.1052}.
+
+
+\bibitem{Belavin}
+A.~Belavin, A.~Polyakov, A.~Schwartz et~al., \emph{Pseudoparticle solutions of the Yang-Mills equations}, \href{https://doi.org/10.1016/0370-2693(75)90163-X}{\emph{Phys. Lett. B} {\bfseries 59} (1975) 85}, \href{https://doi.org/10.1016/0370-2693(75)90163-X}{DOI:10.1016/0370-2693(75)90163-X}.
+
+
+\bibitem{Ashcroft:102652}
+N.W.~Ashcroft and N.D.~Mermin, \emph{\href{https://books.google.co.uk/books?id=x_s_YAAACAAJ}{The semiclassical model of electron dynamics}},  in \emph{{Solid state physics}}, (New York, NY), pp.~213--219, Holt, Rinehart and Winston (1976)\!\! , ISBN:0-03-083993-9.
+
+\bibitem{BerryCurveTerm}
+G.~Sundaram and Q.~Niu, \emph{Wave-packet dynamics in slowly perturbed crystals: Gradient corrections and Berry-phase effects}, \href{https://doi.org/10.1103/PhysRevB.59.14915}{\emph{Phys. Rev. B} {\bfseries 59} (1999) 14915}, \href{https://doi.org/10.1103/PhysRevB.59.14915}{DOI:10.1103/PhysRevB.59.14915}.
+
+
+\bibitem{BKE}
+N.~Ben~Abdallah, P.~Degond and S.~Genieys, \emph{An energy-transport model for semiconductors derived from the Boltzmann equation}, \href{https://doi.org/10.1007/BF02179583}{\emph{J. Stat. Phys.} {\bfseries 84} (1996) 205}, \href{https://doi.org/10.1007/BF02179583}{DOI:10.1007/BF02179583}.
+
+
+\bibitem{Squeezetest}
+S.~Liang, J.~Lin, S.~Kushwaha et~al., \emph{Experimental Tests of the Chiral Anomaly Magnetoresistance in the Dirac-Weyl Semimetals ${\mathrm{Na}}_{3}\mathrm{Bi}$ and GdPtBi}, \href{https://doi.org/10.1103/PhysRevX.8.031002}{\emph{Phys. Rev. X} {\bfseries 8} (2018) 031002}, \href{https://doi.org/10.1103/PhysRevX.8.031002}{DOI:10.1103/PhysRevX.8.031002}.
+
+
+\bibitem{BiMobility}
+K.~Lee, S.~Lee, S.N.~Holmes et~al., \emph{Electron and hole mobilities in semimetallic bismuth nanowires}, \href{https://doi.org/10.1103/PhysRevB.82.245310}{\emph{Phys. Rev. B} {\bfseries 82} (2010) 245310}, \href{https://doi.org/10.1103/PhysRevB.82.245310}{DOI:10.1103/PhysRevB.82.245310}.
+
+
+\bibitem{TaAs}
+X.~Huang, L.~Zhao, Y.~Long et~al., \emph{Observation of the Chiral-Anomaly-Induced Negative Magnetoresistance in 3D Weyl Semimetal TaAs}, \href{https://doi.org/10.1103/PhysRevX.5.031023}{\emph{Phys. Rev. X} {\bfseries 5} (2015) 031023}, \href{https://doi.org/10.1103/PhysRevX.5.031023}{DOI:10.1103/PhysRevX.5.031023}.
+
+
+\end{thebibliography}\endgroup

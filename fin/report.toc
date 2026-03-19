@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Background}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Relativistic quantum mechanics}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Electronic structure and Berry phase}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Dirac and Weyl semimetals}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Magnetic WSMs}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Noncentrosymmetric WSMs}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Dirac matter}{8}{subsection.3.3}%
+\contentsline {section}{\numberline {4}The chiral anomaly}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Quantum field theory}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Condensed matter}{12}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Magnetoresistance experiments}{13}{section.5}%
+\contentsline {section}{\numberline {6}Conclusion}{15}{section.6}%
+\contentsline {section}{\numberline {7}Lay summary}{19}{section.7}%
