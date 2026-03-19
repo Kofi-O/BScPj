@@ -344,15 +344,17 @@ symmetric Berry curvatures ($\bm{\Omega^k} = \bm{\Omega}^{-\bm{k}} $).
 However, when a crystal has time-reversal symmetry ($\ket{u_{\bm{-k}}} = \ket{u_{\bm{k}}}^\dagger$)
 the Berry potential is
 \begin{equation}
-  A_\mu = \braket{u_{-k}^\dagger|\partial_\mu u_{-k}^\dagger} = \braket{\partial_\mu u_{-k}| u_{-k}},
+  A_\mu = \braket{u_{-\bm{k}}^\dagger|\partial_\mu u_{-\bm{k}}^\dagger}
+  = \braket{\partial_\mu u_{-\bm{k}}| u_{-\bm{k}}},
 \end{equation}
 and the Berry curvature is antisymmetric
 \begin{equation}
 \begin{split}
-\Omega^{\bm{k}}_{\mu\nu} &= \partial_\mu \braket{\partial_\nu u_{-k}| u_{-k}} - \partial_\nu 
-  \braket{\partial_\mu u_{-k}| u_{-k}} \\
-            & = \braket{\partial_\nu u_{-k}| \partial_\mu u_{-k}} -
-          \braket{\partial_\mu u_{-k}| \partial_\nu u_{-k}} = -\Omega^{-\bm{k}}_{\mu\nu}.
+  \Omega^{\bm{k}}_{\mu\nu} &= \partial_\mu \braket{\partial_\nu u_{-\bm{k}}| u_{-\bm{k}}}
+  - \partial_\nu 
+  \braket{\partial_\mu u_{-\bm{k}}| u_{-\bm{k}}} \\
+        & = \braket{\partial_\nu u_{-\bm{k}}| \partial_\mu u_{-\bm{k}}} -
+        \braket{\partial_\mu u_{-\bm{k}}| \partial_\nu u_{-\bm{k}}} = -\Omega^{-\bm{k}}_{\mu\nu}.
 \end{split}
 \end{equation}
 Subsequently, a WSM can have either time-reversal symmetry, in which case Weyl nodes at
