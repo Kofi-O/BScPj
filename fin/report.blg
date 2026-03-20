@@ -30,7 +30,7 @@ You can't pop an empty literal stack for entry Ashcroft:102652
 while executing---line 1195 of file JHEP.bst.bst
 You've used 56 entries,
             2390 wiz_defined-function locations,
-            1034 strings with 15354 characters,
+            1034 strings with 15498 characters,
 and the built_in function-call counts, 25134 in all, are:
 = -- 2685
 > -- 652
